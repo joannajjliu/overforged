@@ -1,0 +1,11 @@
+modules:
+  macro:
+    - key: over-forged-hello-world
+      function: main
+      title: Over Forged App
+      description: Inserts Hello world!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/20202be6-bc3a-44ed-ba8b-c07a3ebffbd4
